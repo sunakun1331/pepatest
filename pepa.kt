@@ -1,5 +1,3 @@
-fun main(){
-
-println("hello world")
-
+fun main() {
+    println("hello")
 }
